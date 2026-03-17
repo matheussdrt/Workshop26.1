@@ -19,7 +19,7 @@ Modelo entidade-relacionamento desenvolvido no brModelo.
 
 ## 🖼️ Diagrama
 
-![Diagrama ER](diagrama_escola.png)
+![Diagrama ER](diagrama_lógico.png)
 
 ## 📁 Arquivos
 
