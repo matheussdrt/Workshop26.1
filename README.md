@@ -1,15 +1,41 @@
-# Modelo ER - Escola de Idiomas
+# 📊 Fábrica de Software 2026.1 - Projetos de Análise de Dados
 
-Modelo entidade-relacionamento desenvolvido no brModelo.
+Repositório contendo projetos desenvolvidos durante meu estágio na Fábrica de Software da UNIPÊ, com foco em análise de dados, modelagem e desenvolvimento de soluções baseadas em dados.
 
-## Arquivos
-- diagrama_escola.png
-- diagrama_escola.brM3
+---
 
-## Descrição
-O modelo representa um sistema de escola de idiomas com as entidades:
-Aluno, Professor, Turma, Curso e Matrícula.
+## 🧠 Sobre o estágio
 
-## Diagrama
+Atuo na área de Análise de Dados, desenvolvendo habilidades em:
 
-![Diagrama](diagrama_escola.png)
+* Modelagem de dados (ER e relacional)
+* Análise exploratória de dados
+* Manipulação de dados com Python e SQL
+* Criação de dashboards e visualizações
+* Organização e estruturação de projetos
+
+---
+
+## 🚀 Tecnologias utilizadas
+
+* Python
+* Pandas
+* SQL
+* Power BI
+* Tebleau
+* Excel
+* Modelagem de Dados (ER)
+
+---
+
+## 🎯 Objetivo
+
+Este repositório tem como objetivo documentar minha evolução na área de análise de dados, reunindo projetos práticos desenvolvidos durante o estágio.
+
+---
+
+## 👨‍💻 Autor
+
+**Matheus Duarte**
+Estudante de Ciência da Computação
+Foco em Análise de Dados
