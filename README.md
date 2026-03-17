@@ -9,3 +9,7 @@ Modelo entidade-relacionamento desenvolvido no brModelo.
 ## Descrição
 O modelo representa um sistema de escola de idiomas com as entidades:
 Aluno, Professor, Turma, Curso e Matrícula.
+
+## Diagrama
+
+![Diagrama](diagrama_escola.png)
