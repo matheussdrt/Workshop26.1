@@ -17,11 +17,13 @@ Modelo entidade-relacionamento desenvolvido no brModelo.
 * Turma pertence a um Curso
 * Professor leciona Turma
 
-## 🖼️ Diagrama
+## 🖼️ Diagrama Lógico
 
-![Diagrama ER](diagrama_lógico.png)
+![Diagrama ER](_diagrama_lógico.png)
 
 ## 📁 Arquivos
 
-* diagrama_escola.png
+* diagrama_lógico.png
 * diagrama_escola.brM3
+* _diagrama_conceitual.png
+* diagrama_escola_conceitual.brM3
